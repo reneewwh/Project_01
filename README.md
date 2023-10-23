@@ -1,4 +1,4 @@
-# Project_01
+# Project_01_Melbourne_Real_Estate_Analysis
 ## Dependencies
 
 - Python 3.x
