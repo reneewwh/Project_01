@@ -40,18 +40,23 @@
 - Propertycount: Count of properties in the suburb
 
 
-# Assumption
-- The price of a property in Melbourne is influenced by factors such as the number of rooms, distance from the city center, type of property, land size, building area, and the year it was built.
+## Assumption
+- The data provided is accurate, complete, and reliable
+- Does not account for external factors such as changes in economic policy
+- Relatively stable market conditions during the specified time frame, no repid shifts
+
   
 ## Describe the project's core message or hypothesis.
-- Using python to clean and analysis data, generating geoview, correlation, bar chart, line chart and scatter to visual data in a better way 
-- Understand what properties’ features impact the sales and price, understand sales pattern, customer preferences and evaluate property growth
+- Using Python to clean and analyze data, generating geoview, correlation, bar chart, line chart and scatter to visual data in a better way 
+- Understand what properties’ features impact the sales and price, understand sales patterns, customer preferences and evaluate property growth
 - Studies price patterns and market trends using charts and other tools to forecast future price movements.
 
 
 ## Describe the questions the group found of interest, and why.
-**Hasn't include Renee's part questions**
 
+  - What’s the sales distribution across regions, which region yields the most sales through the sale period? What’s the property type involved? Are their sales activities significantly different across all regions?
+  - What’s the price range of properties across regions? Are they significantly different? Is there any price range that’s particularly popular across buyers?
+  - Does the correlation amongst major price factors different across regions? If so, which region is specific?
   - What properties’ features impact the sales and price?
   - How do house prices from the start of the observed period compare with those at the end? Is there a general increase, decrease, or stable trend
   - Based on this trend, which suburb might be a potential hotspot for real estate investment in the coming years?
