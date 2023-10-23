@@ -69,6 +69,7 @@
 - `Real_Estate_Project_Script.ipynb`: Main script to perform data analysis and generate visualizations.
 - `Melbourne_housing_FULL.csv`: Sample property data in CSV format.
 - The property data is sourced from https://www.kaggle.com/code/bichithkcherian/melbourne-housing-analysis/input
+- Certain Graph reference from: https://www.kaggle.com/code/janiobachmann/melbourne-comprehensive-housing-market-analysis
 - The data source was originally extracted from www.domain.com.au
   
 ## Describe the data exploration and cleanup process (accompanied by Jupyter Notebook).
