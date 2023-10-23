@@ -13,8 +13,36 @@
 - os
 - warnings
 - datatime
-  
 
+  
+## Columns
+
+- Suburb: Name of the suburb
+- Address: Address of the property
+- Rooms: Number of rooms
+- Type: Type of property
+- Price: Price of the property
+- Method: Selling method
+- SellerG: Seller's name or agency
+- Date: Date of sale
+- Distance: Distance from the city center
+- Postcode: Postal code
+- Bedroom2: Number of bedrooms
+- Bathroom: Number of bathrooms
+- Car: Number of parking spots
+- Landsize: Size of the land
+- BuildingArea: Area of the building
+- YearBuilt: Year when the property was built
+- CouncilArea: Governing council for the area
+- Lattitude: Latitude
+- Longtitude: Longitude
+- Regionname: Name of the region
+- Propertycount: Count of properties in the suburb
+
+
+# Assumption
+- The price of a property in Melbourne is influenced by factors such as the number of rooms, distance from the city center, type of property, land size, building area, and the year it was built.
+  
 ## Describe the project's core message or hypothesis.
 - Using python to clean and analysis data, generating geoview, correlation, bar chart, line chart and scatter to visual data in a better way 
 - Understand what properties’ features impact the sales and price, understand sales pattern, customer preferences and evaluate property growth
