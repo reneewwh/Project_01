@@ -20,7 +20,7 @@
 - Suburb: Name of the suburb
 - Address: Address of the property
 - Rooms: Number of rooms
-- Type: Type of property
+- Type: Type of Property(h=House,t=Townhouse,u=Unit)
 - Price: Price of the property
 - Method: Selling method
 - SellerG: Seller's name or agency
